@@ -392,4 +392,4 @@ f <- imputed_avs$day.type
 xyplot(y ~ x | f, layout = c(1, 2), type = "l")
 ```
 
-![plot of chunk panel plot](figure/panel plot-1.png)
+![plot of chunk panelplot](figure/panelplot-1.png)

@@ -224,7 +224,7 @@ imputed_avs <- imputed_step_data %>%
 
 Plot using the lattice package
 
-```{r panel plot}
+```{r panelplot}
 x <- imputed_avs$interval
 y <- imputed_avs$stepav
 f <- imputed_avs$day.type
